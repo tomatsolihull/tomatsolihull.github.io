@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /$
+Allow: /index.html
+Disallow: /
+
+# Should (fingers crossed!) allow access to homepage,
+# but not any subdirectories or other files.
+
+# 2025-06-02
